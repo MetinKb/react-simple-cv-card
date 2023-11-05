@@ -1,4 +1,4 @@
-# simple-cv-card
+# Responsive Simple CV Card
 I started React 3 days ago and Tailwind today. This is my first project using React and Tailwind. 
 <br>
 You can see the computer and phone views below. <br> <br>
